@@ -13,7 +13,7 @@ $ npm install @bonaxcrimo/tiny
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@bonaxcrimo/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
